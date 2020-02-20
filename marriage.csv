@@ -1,0 +1,20 @@
+Type, Duration of marriage,children,Relationship status,Divorced,Married again
+Arrange,3,0,good,no,yes
+Love,5,2,bad,yes,no
+Love ,6,2,bad,no,no
+Love,2,0,good,yes,no
+Arrange,8,3,bad,yes,yes
+Love,1,0,bad,no,yes
+Arrange,9,2,good,yes,no
+Arrange,4,2,good,no,no
+ Arrange cum love,7,3,good,yes,yes
+Arrange cum love,5,3,bad,yes,no
+Love,3,1,good,no,no
+Arrange,6,2,bad,yes,yes
+ Arrange cum love,1,0,good,no,no
+Love,9,3,bad,no,yes
+Arrange,4,1,good,yes,yes
+Arrange cum love,2,1,bad,yes,no
+Love,1,0,good,no,no
+Arrange,7,3,bad,no,yes
+Arrange,8,2,bad,yes,no
